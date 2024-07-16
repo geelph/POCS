@@ -60,6 +60,7 @@
 60. 宏景HCM-LoadOtherTreeServlet  SQL注入
 61. 启明星辰天青汉马VPN-download-client-任意文件读取
 62. 赛蓝企业管理系统 GetExcellTemperature SQL注入
+63. 泛微e-cology WorkflowServiceXml SQL注入
 
 欢迎关注本公众号，每日更新最新漏洞情报:
 
