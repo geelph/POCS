@@ -1,3 +1,7 @@
+# 2024HW漏洞情报POC
+![image](https://github.com/user-attachments/assets/eb4a9d7c-d62a-42ac-8c00-6fb8c979c0e0)
+
+
 1. 大华智能物联ICC综合管理平台 fastjson反序列化漏洞
 2. 号卡极团分销管理系统 ue_serve.php 任意文件上传
 3. 用友GRP-U8 dialog_moreUser_check.jsp SQL注入漏洞
