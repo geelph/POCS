@@ -1,5 +1,6 @@
 # 2024HW漏洞情报POC
-![image](https://github.com/user-attachments/assets/eb4a9d7c-d62a-42ac-8c00-6fb8c979c0e0)
+![image](https://github.com/user-attachments/assets/d42c17f4-0e56-4bf9-ad5f-a394dd3ef571)
+
 
 
 1. 大华智能物联ICC综合管理平台 fastjson反序列化漏洞
